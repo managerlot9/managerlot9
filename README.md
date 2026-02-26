@@ -1,5 +1,6 @@
 ## Hi there 👋
-https://managerlot9.github.io/free-qr-generator/
+https://managerlot9.github.io/free-qr-generator
+
 https://github.com/managerlot9/Snapshot-to-LLM-pilot/releases/tag/v0.0.1
 
 
